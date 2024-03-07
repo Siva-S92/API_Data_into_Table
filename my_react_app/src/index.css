@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#table1 {
+    @apply w-full
+}
+
+#table1 th, td {
+    @apply border-2 border-black text-center
+}
+
